@@ -8,10 +8,10 @@
 		<version>4.0.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.eazybytes</groupId>
+	<groupId>com.bank</groupId>
 	<artifactId>springsecsection4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springsecsection4</name>
+	<name>bankApplicaiton</name>
 	<description>Demo project for Spring Boot and Spring Security</description>
 	<url/>
 	<licenses>
